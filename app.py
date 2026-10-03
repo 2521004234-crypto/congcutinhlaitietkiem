@@ -364,3 +364,4 @@ st.caption(
     "kênh gửi và chính sách của từng ngân hàng."
 )
 ```
+streamlit run app.py
